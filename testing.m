@@ -5,5 +5,5 @@ Y=2;
 
 H=5;
 
-comparison_result=test_function(X,Y); %sadece Xi call edersen not enough 
+comparison_result=test_function(X,Y); 
 %input argument diyor. 
